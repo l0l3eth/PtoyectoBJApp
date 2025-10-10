@@ -1,0 +1,9 @@
+package mx.tec.proyectoBJ.view
+
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+
+@Composable
+fun PantallaPrincipalNegocio(modifier: Modifier = Modifier) {
+    
+}
