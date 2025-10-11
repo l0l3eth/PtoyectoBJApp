@@ -16,5 +16,6 @@ val naranja = Color(red = 250, green = 77, blue = 103, alpha = 255)
 val blanco = Color(0xFFFFFFFF)
 val negro = Color(0xFF000000)
 val grisClaro = Color(0xFFE0E0E0)
+val gris = Color(0xFF808080)
 
 val degradado = Brush.horizontalGradient(listOf(rosa, naranja))
